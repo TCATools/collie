@@ -1,4 +1,4 @@
-# Collie(测试版)
+# TCA-Collie(测试版)
 一款多语言非编译型静态代码分析工具，支持C/C++/ObjectiveC/C#/CSS/Dart/Java/JavaScript/TypeScript/Kotlin/Lua/PHP/Python/Go/Ruby/Scala/Swift等17门语言。
 
 ## 准备
